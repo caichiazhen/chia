@@ -1,2 +1,2 @@
-studentA = "Estoy un estudiante"
+studentA = "Estoy un guapa estudiante"
 print(studentA)
